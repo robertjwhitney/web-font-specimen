@@ -4,9 +4,7 @@ Web Font Specimen - Sinatra Mini App
 [Web Font Specimen](http://webfontspecimen.com/) is a tool built by Tim Brown
 ([Nice Web Type](http://nicewebtype.com/)) to help web designers make
 type-setting decisions. 
-It was ported to Compass by [Eric Meyer](http://www.oddbird.net)
-
-And then the styles were taken out of that plugin, and put in to a Sinatra App which doesn't require Compass by [Robert Whitney](http://www.robertjwhitney.com)
+It was ported to Compass by [Eric Meyer](http://www.oddbird.net) And then the styles were taken out of that plugin, and put in to a Sinatra App which doesn't require Compass by [Robert Whitney](http://www.robertjwhitney.com)
 
 
 Copy your font files into a `fonts` directory in your CSS directory. Fill in your normal, italic and bold
